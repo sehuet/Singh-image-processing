@@ -4,9 +4,9 @@ function Recruitment_auto3
 %
 %   Author: Sébastien Huet
 %   Email: sebastien.huet (at) univ-rennes1.fr
-%   Date: 11-05-2021
+%   Date: 29-07-2021
 %   
-%   This is the main function used to assess recruitment kinectics of PARP1 at sites of damage
+%   This is the main function used to assess recruitment kinetics of repair proteins at sites of damage
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%
 
